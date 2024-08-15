@@ -13,3 +13,8 @@
 3)@AllArgsConstructor creates a constructor with all the fields as parameters.</br>
 4)@RequiredArgsConstructor creates a constructor for final fields and fields with @NonNull.
 
+<h3>Benefits of Using Lombok:</h3>
+<h5>Reduces Boilerplate Code:</h5> Lombok cuts down on repetitive code, making your classes much cleaner and easier to read.
+<h5>Improves Maintainability:</h5> By reducing the amount of code, there is less to maintain and fewer opportunities for bugs to be introduced.
+<h5>Encourages Best Practices:</h5> Lombok encourages the use of best practices like immutability and the builder pattern, which can lead to more robust code.
+
