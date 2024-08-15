@@ -8,7 +8,8 @@
 <hr>
 <h3>Constructors:</h3>
 
-@NoArgsConstructor, @AllArgsConstructor, and @RequiredArgsConstructor can be used to automatically generate constructors.
-@NoArgsConstructor creates a no-argument constructor.
-@AllArgsConstructor creates a constructor with all the fields as parameters.
-@RequiredArgsConstructor creates a constructor for final fields and fields with @NonNull.
+1)@NoArgsConstructor, @AllArgsConstructor, and @RequiredArgsConstructor can be used to automatically generate constructors.</br>
+2)@NoArgsConstructor creates a no-argument constructor.</br>
+3)@AllArgsConstructor creates a constructor with all the fields as parameters.</br>
+4)@RequiredArgsConstructor creates a constructor for final fields and fields with @NonNull.
+
