@@ -21,11 +21,15 @@
 
 <h3>Setting Up Lombok:</h3>
 To use Lombok, you need to add it as a dependency in your project. For example, in a Maven project, you would add:<br>
-xml
-Copy code
+<table border="1">
+    <tr>
+        <td>
 <dependency>
     <groupId>org.projectlombok</groupId>
     <artifactId>lombok</artifactId>
     <version>1.18.24</version>
     <scope>provided</scope>
 </dependency>
+            </td>
+ </tr>
+</table>
